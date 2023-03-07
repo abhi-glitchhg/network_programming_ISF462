@@ -3,9 +3,10 @@
 #include<unistd.h>
 #include<stdlib.h>
 
-int ans(){
-
+int main(){
+	printf("assignment 1 \n");
 	pid_t s = fork(); // we create fork here
+	pid_t parent_id;
 	if (s==0){
 		// child
 		
@@ -16,26 +17,22 @@ int ans(){
 		exit(0);
 	}
 	else {
-
-		printf("from parent process, own PID %d, \n",getpid());
+		parent_id = getpid();
+		printf("from parent process, own PID %d, \n",parent_id);
 		printf("from parent process, childrens PID: %d, \n", s);
 		s = wait(NULL); //waits for child to finish execution.
 		printf("children finished execution with pid %d, \n", s);
-		return getpid(); // cheeky way to handle when parent finishes the execution.
+
+		exit(0);
+
+
 	}
+
 	return 0;
 
 
 
 }
 
-int main(){
-
-	printf("assignment 1\n\n");
-	int temp = ans(); 
-	if (temp!=0)
-		printf( "parent finished execution with PID, %d \n", temp);
-	return 0;
-}
 
 
