@@ -1,124 +1,0 @@
-Script started on 2023-02-27 11:39:48+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="204" LINES="55"]
-Mai bhi linux wala :) !
-⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠿⠁⠻⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⡿⠟⠋⠉⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠉⠙⠛⢿⣿⣿
-⣿⡟⢀⡶⠛⠛⠛⠀⠀⢀⣤⣤⣤⡀⠀⠀⠀⣠⣤⣤⡀⠀⠀⠙⠛⠛⢶⡄⢹⣿
-⣿⠁⢸⡇⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡷⠀⠀⠀⠀⠀⢸⡇⠀⣿
-⣿⣇⠈⢧⣄⣀⣠⣄⠀⠀⠙⠛⠋⢀⠀⠀⣀⠙⠛⠛⠁⠀⢠⣄⣀⣠⡼⠃⣰⣿
-⣿⣿⣷⣄⣈⠉⢉⣀⣤⣄⠀⠀⠀⣿⠁⠀⣿⠀⠀⠀⣀⣤⣄⡉⠉⣉⣠⣾⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡛⠷⢶⣦⣤⣤⣤⣤⣤⡶⠾⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-[?2004h]7;file://abhijit-hp/home/abhijit/netprog/asgnmt2]0;~/n/asgnmt2[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt2(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cl[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85ms[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ms[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mls[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[197C[1m[32m(base) (B[m[197C[43C
-[30m(B[m[?2004l]0;ls ~/n/asgnmt2[30m(B[massingment_2_fish_output.txt  main.c  [0m[01;32mmain_exe[0m*
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt2[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt2(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[38;2;85;85;85mt main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[38;2;85;85;85m main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mmain.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mmain.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cm[38;2;85;85;85main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mm[38;2;85;85;85m[24main.c[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4ma[38;2;85;85;85m[24min.c[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mi[38;2;85;85;85m[24mn.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;175;255m[4mn[38;2;85;85;85m[24m.c[197C[30m(B[m[1m[32m(base) (B[m[197C[49C[38;2;0;175;255m[4m.[38;2;85;85;85m[24mc[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4mc[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[197C[1m[32m(base) (B[m[197C[51C
-[30m(B[m[?2004l]0;cat main.c ~/n/asgnmt2[30m(B[m#include <stdio.h>
-#include <sys/types.h>
-#include <unistd.h>
-#include <stdlib.h>
-
-int main(){
-    int fd1[2]; int fd2[2];
-    pipe(fd1); pipe(fd2);
-    
-    //int ff;
-    //scanf("%d",&ff );
-    pid_t pid = fork();
-
-    if (pid>0){
-    // this is parent
-    printf("this is parent %d \n", getpid());
-
-    // parent uses first pipe fd1 to write the data; so we will close the reading for fd1 and we will read from fd2; so we will close the write of fd2;
-    //
-    sleep(2);
-    close(fd1[0]);
-    close(fd2[1]);
-
-    // parent asking for input
-    printf("parent (%d) asking for input  \n", getpid()) ;
-    int i =1211;
-    scanf("%d", &i);
-    //writing the data to the pipe;
-    write( fd1[1], &i,sizeof(i));
-    //reading data from the pipe;
-    int j;
-    read(fd2[0], &j, sizeof(j));
-    printf("parent (%d) has recieved the  integer \n" , getpid());
-    printf("the integer sent by children(%d)  is %d \n",pid,j);
-
-    //close the remaining ends of the pipe for respective process
-    close(fd1[1]); close(fd2[0]);
-    //exit
-    exit( 0);}
-
-    else 
-    {
-    //this is child 
-    printf("this is child (%d) \n", getpid());
-
-    //close the respective pipe endds;
-    close(fd1[1]);
-    close(fd2[0]);
-    sleep(1);
-    int i;
-    
-    //read from pipe;
-    read( fd1[0], &i, sizeof(i));
-    printf("children(%d) now received the integer  \n" , getpid() );
-    printf("the integer sent by by the parent(%d) is %d \n", getppid(), i);
-
-    printf("child(%d) is asking for input  \n", getpid());
-    int j ;
-    //write to the pipe;
-    scanf("%d", &j);
-    write(fd2[1], &j, sizeof(j));
-    
-    //close the remaining ends of the pipe for respective process
-
-    close(fd2[1]);
-    close(fd1[0]);
-    //exit
-    exit(0);
-
-
-    }
-    return 0;
-
-    
-
-
-
-}
-
-
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt2[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt2(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc main.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[38;2;85;85;85mcc main.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc main.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m main.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m main.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mmain.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mmain.c -o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[197C[1m[32m(base) (B[m[197C
-assingment_2_fish_output.txt  main.c  main_exe[A[45Cassingment_2_fish_output.txt [197C[1m[32m(base) (B[m[197C
-[7massingment_2_fish_output.txt(B[m  main.c  main_exe[A[74C[29D[38;2;0;175;255m[4massingment_2_fish_output.txt[30m(B[m [197C[1m[32m(base) (B[m[197C[74C[29D[38;2;0;175;255m[4mmain.c [30m(B[m[K[197C[1m[32m(base) (B[m[197C
-assingment_2_fish_output.txt  [7mmain.c(B[m  main_exe[A[52C [197C[1m[32m(base) (B[m[197C[52C[38;2;85;85;85m-o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[52C[38;2;0;175;255m[4m_e[30m(B[mxe [K[197C[1m[32m(base) (B[m[197C
-[30Cmain.c  [7mmain_exe[A[54C(B[m[38;2;0;175;255m[4mxe[30m(B[m [197C[1m[32m(base) (B[m[197C[54C[9D[38;2;0;175;255m[4massingme[30m(B[mnt_2_fish_output.txt [197C[1m[32m(base) (B[m[197C
-[7massingment_2_fish_output.txt(B[m  main.c  main_exe[A[74C[21D[38;2;0;175;255m[4mnt_2_fish_output.txt[30m(B[m [197C[1m[32m(base) (B[m[197C[74C[29D[38;2;0;175;255m[4mmain.c [30m(B[m[K[197C[1m[32m(base) (B[m[197C
-assingment_2_fish_output.txt  [7mmain.c(B[m  main_exe[A[52C[38;2;85;85;85m-o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[52C [38;2;85;85;85m-o main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[52C-[38;2;85;85;85mo main_exe[30m(B[m[J[197C[1m[32m(base) (B[m[197C[53C[38;2;0;175;255m-[38;2;85;85;85mo main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C
-[37m[1m[4m-(B[m###                                                                                                                         ([38;2;179;160;109mLike -v except commands are not executed and all command arguments are quoted[30m(B[m)
-[37m[1m[4m-(B[mA  [37m[1m[4m-(B[mpredicate                                                                                                                          ([38;2;179;160;109mCancel an assertion with the predicate predicate and answer answer[30m(B[m)
-[37m[1m[4m-(B[mallowable_client  [37m[1m[4m-(B[mclient_name  [37m[1m[4m-(B[mcompatibility_version  [37m[1m[4m-(B[mcurrent_version  [37m[1m[4m-(B[mdead_strip  [37m[1m[4m-(B[mdependency-file  [37m[1m[4m-(B[mdylib_file  [37m[1m[4m-(B[mdylinker_install_name  [37m[1m[4m-(B[mdynamic  [37m[1m[4m-(B[m…  ([38;2;179;160;109mThese options are passed to the Darwin linker[30m(B[m)
-[37m[1m[4m-(B[mall_load                                                                                                                                                    ([38;2;179;160;109mLoads all members of static archive libraries[30m(B[m)
-[1m[97m[46m…and 891 more rows[A[A[A[A[A[53C(B[m[30m[30m(B[m[38;2;0;175;255mo[38;2;85;85;85m main_exe[30m(B[m[J[197C[1m[32m(base) (B[m[197C[54C[13D[1m[100mgcc main.c -o(B[m[30m[38;2;85;85;85m[40m(B[m[38;2;85;85;85m main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[13D[38;2;0;95;215mgcc[30m(B[m [38;2;0;175;255m[4mmain.c[30m(B[m [38;2;0;175;255m-o[38;2;85;85;85m main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[38;2;0;175;255m [38;2;85;85;85mmain_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[55C [38;2;85;85;85mmain_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[55Cm[38;2;85;85;85main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[56C[38;2;0;175;255m[4mm[38;2;85;85;85m[24main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[56C[38;2;0;175;255m[4ma[38;2;85;85;85m[24min_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[57C[38;2;0;175;255m[4mi[38;2;85;85;85m[24mn_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[38;2;0;175;255m[4mn[38;2;85;85;85m[24m_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[59C[38;2;0;175;255m[4m_[38;2;85;85;85m[24mexe[197C[30m(B[m[1m[32m(base) (B[m[197C[60C[38;2;0;175;255m[4me[38;2;85;85;85m[24mxe[197C[30m(B[m[1m[32m(base) (B[m[197C[61C[38;2;0;175;255m[4mx[38;2;85;85;85m[24me[197C[30m(B[m[1m[32m(base) (B[m[197C[62C[38;2;0;175;255m[4me[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
-[30m(B[m[?2004l]0;gcc main.c -o main_e ~/n/asgnmt2[30m(B[m[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt2[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt2(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41C,[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0m,[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0m.[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[K[197C[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[38;2;85;85;85m/main_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/[38;2;85;85;85mmain_exe[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mmain_exe [197C[30m(B[m[1m[32m(base) (B[m[197C[52C [197C[1m[32m(base) (B[m[197C[52C
-[30m(B[m[?2004l]0;./main_exe  ~/n/asgnmt2[30m(B[mthis is parent 7176 
-this is child (7177) 
-parent (7176) asking for input  
-9876
-children(7177) now received the integer  
-the integer sent by by the parent(7176) is 9876 
-child(7177) is asking for input  
-1234
-parent (7176) has recieved the  integer 
-the integer sent by children(7177)  is 1234 
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt2[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt2(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ce[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0me[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mx[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mex[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mexi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mt[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;0;95;215mexit[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[197C[1m[32m(base) (B[m[197C[45C
-[30m(B[m[?2004l]0;exit ~/n/asgnmt2[30m(B[m[30m(B[m[?2004l
-Script done on 2023-02-27 11:40:54+05:30 [COMMAND_EXIT_CODE="0"]
