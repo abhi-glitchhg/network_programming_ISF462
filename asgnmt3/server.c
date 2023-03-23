@@ -40,9 +40,16 @@ int main(){
 	
 	printf("Server listening on %s:%d\n", server_ip, server_port);
 	
-	sleep(500);
+	
+	struct sockaddr_in client_address;
+    	socklen_t client_address_len = sizeof(client_address);
 
-
+    	int client_socket = accept(socket_flag, (struct sockaddr *)&client_address, &client_address_len);
+    	
+	if (client_socket < 0) {
+        	perror("Error accepting connection");
+        	exit(EXIT_FAILURE);
+    	}
 
 	return 0;
 
@@ -51,4 +58,7 @@ int main(){
 
 // add logic here to handle the threaded code; aka handling the client;
 
+int func( int accept){
+	return 0;
 
+}

@@ -3,7 +3,7 @@
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<arpa/inet.h>
-
+#include<string.h>
 int main(){
 
 	char server_ip[16];
@@ -20,6 +20,7 @@ int main(){
 	//take input for the ip of the server
 	printf("enter the server Ip address\n");
 	scanf("%s", server_ip);
+	server_ip[strcspn(server_ip, "\n")] = 0;
 
 	printf("enter the port of the server\n");
 	scanf("%d", &server_port);
@@ -36,15 +37,30 @@ int main(){
 	int connection_flag = connect(socket_flag, (struct sockaddr *) &socket_address, sizeof(socket_address) );
 
 	if (connection_flag==-1)
+		
 		printf(" failed to connect to the server with ip %s/%d", server_ip, server_port);
 
-	printf("connection done baby");	
+	char string_buffer[1024];
+	char stopword[1024];
+	stopword[0] = 'q'; stopword[1] = 'u' ; stopword[2] = 'i' ; stopword[3] ='t' ;
+	 printf(" eneter words here; to stop enter quit \n: ");
+	 
+	 while (strcmp(string_buffer, stopword)){
 	
+		scanf("%s", string_buffer);
+		if (send(socket_flag, &string_buffer, strcspn(string_buffer, "\n"), 0) <0)
+			perror("error while writing data to the socket.");
 
+		printf(string_buffer, "\n");
+
+	
+	 }
+
+
+	 close(socket_flag);
 
 	//take input until the input is quit
-	//
-	
+		
 
 
 	// close connection
