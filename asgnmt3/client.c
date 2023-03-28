@@ -31,27 +31,29 @@ int main(){
 	socket_address.sin_port = htons(server_port);
 	socket_address.sin_addr.s_addr = inet_addr(server_ip);
 
+	    if(inet_pton(AF_INET,server_ip ,&socket_address.sin_addr) < 1){
+        	perror("client: inet_pton() error ->");
+        	exit(EXIT_FAILURE);
+    }
 
 
 	// connect
 	int connection_flag = connect(socket_flag, (struct sockaddr *) &socket_address, sizeof(socket_address) );
 
-	if (connection_flag==-1)
-		
-		printf(" failed to connect to the server with ip %s/%d", server_ip, server_port);
+	if (connection_flag<0)
+		perror(" failed to connect to the server");
 
 	char string_buffer[1024];
 	char stopword[1024];
 	stopword[0] = 'q'; stopword[1] = 'u' ; stopword[2] = 'i' ; stopword[3] ='t' ;
-	 printf(" eneter words here; to stop enter quit \n: ");
+	 printf(" eneter words here; to stop enter 'quit \n: ");
 	 
 	 while (strcmp(string_buffer, stopword)){
 	
 		scanf("%s", string_buffer);
-		if (send(socket_flag, &string_buffer, strcspn(string_buffer, "\n"), 0) <0)
+		if (write(socket_flag, &string_buffer, 1024) <0)
 			perror("error while writing data to the socket.");
 
-		printf(string_buffer, "\n");
 
 	
 	 }
