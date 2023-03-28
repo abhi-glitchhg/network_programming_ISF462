@@ -87,6 +87,7 @@ int main(){
 		size_t bytes_read; 
 		while (bytes_read = recv(client_socket, buff, 1024, 0)){
 			printf("%s", buff);
+			printf("\n");
 	} 
 	}
 	return 0;

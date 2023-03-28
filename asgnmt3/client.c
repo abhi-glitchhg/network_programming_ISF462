@@ -26,20 +26,20 @@ int main(){
 	printf("enter the port of the server\n");
 	scanf("%d", &server_port);
 
-	struct sockaddr_in socket_address; // ipv4
+	struct sockaddr_in  server_socket; // ipv4
 	
-	socket_address.sin_family = AF_INET;
-	socket_address.sin_port = htons(server_port);
-	socket_address.sin_addr.s_addr = inet_addr(server_ip);
+	 server_socket.sin_family = AF_INET;
+	 server_socket.sin_port = htons(server_port);
+	 server_socket.sin_addr.s_addr = inet_addr(server_ip);
 
-	    if(inet_pton(AF_INET,server_ip ,&socket_address.sin_addr) < 1){
+	    if(inet_pton(AF_INET,server_ip ,& server_socket.sin_addr) < 1){
         	perror("client: inet_pton() error ->");
         	exit(EXIT_FAILURE);
     }
 
 
 	// connect
-	int connection_flag = connect(socket_flag, (struct sockaddr *) &socket_address, sizeof(socket_address) );
+	int connection_flag = connect(socket_flag, (struct sockaddr *) & server_socket, sizeof(server_socket) );
 
 	if (connection_flag<0)
 		perror(" failed to connect to the server");
