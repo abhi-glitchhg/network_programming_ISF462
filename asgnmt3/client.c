@@ -51,12 +51,13 @@ int main(){
 	printf(" eneter words here; to stop enter 'quit \n: ");
 	
         while(true){ 
-
+		sleep(2);
 		printf("enter a word\n");
 		scanf("%s", string_buffer);
 
 		int len_string = strlen(string_buffer);
-		
+
+		printf("%s %d",string_buffer, len_string);
 		if (len_string == 4){
 			if (string_buffer[0]=='q' && string_buffer[1] == 'u' && string_buffer[2] =='i' && string_buffer[3] == 't')
 				break;

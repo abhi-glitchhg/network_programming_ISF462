@@ -8,6 +8,11 @@
 #include<stdbool.h>
 #include<pthread.h>
 
+
+#define SHELLSCRIPT1 "ifconfig  | grep 'inet ' | awk {'print $2'} | sed 1q >> myip.txt"
+#define SHELLSCRIPT2 "rm myip.txt"
+
+
 // handle the threading logic 
 void* handle_connection(int* p_client){
 	int client_loc = *p_client;
@@ -41,10 +46,8 @@ int main(){
 	struct sockaddr_in client_address;
     	socklen_t client_address_len = sizeof(client_address);
  	int client_socket;	
-
 	int server_port;
 	struct sockaddr_in server_address; // ipv4
-					   //
 	server_address.sin_family = AF_INET; 
 	server_address.sin_addr.s_addr = INADDR_ANY;
 	// take user input for the server ip and port;
@@ -57,27 +60,42 @@ int main(){
 
 	int server_socket = socket(AF_INET, SOCK_STREAM,0 );
 
-	if (server_socket<0)
+	if (server_socket<0){
 		perror("unable to create socket \n");
-
+		exit(EXIT_FAILURE);
+	}
 
 
 	int binding_status = bind(server_socket, (struct sockaddr *) &server_address, sizeof(server_address));
 	if (binding_status <0)
+	{
 		perror( "error while binding \n");
+		exit(EXIT_FAILURE);
+	}
 
 	int listening_status = listen(server_socket, 10);
-     	if (listening_status <0)
+     	if (listening_status <0){
 		perror("Server is unable to listen :( \n");
+		exit(EXIT_FAILURE);
+	}
 
-	printf("Server listening on %d\n", server_port);
+
+	char output[256];
+	system(SHELLSCRIPT1);
+
+	FILE * ptr = fopen("myip.txt", "r");
+	fscanf(ptr, "%s", output);
+	 system(SHELLSCRIPT2);
+	printf("Host ip of the server is : %s", output);
+	printf("Server listening on port number %d\n", server_port);
+
 
 	char buff[1024];
 
 	while (true){
 	
 		// accept a new connection
-		printf("waiting for a connection \n");
+		printf("\nwaiting for a connection \n");
 
 		socklen_t cli_addr_size = sizeof(client_address);
 
