@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include<stdlib.h>	
+#include<stdlib.h>
+#include<unistd.h>
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<arpa/inet.h>
@@ -62,11 +63,19 @@ int main(){
 		
 		}	
 
-		if (write( socket_flag, string_buffer, len_string)<0)
+//		if (write( socket_flag, string_buffer, len_string)<0)
+//		{
+//		perror("error while writing the data");
+///		exit(EXIT_FAILURE);
+//		}
+
+		if (send(socket_flag, string_buffer, len_string,0) < 0)
 		{
-		perror("error while writing the data");
-		exit(EXIT_FAILURE);
+			perror("error while sending the data");
+			exit(EXIT_FAILURE);
 		}
+
+		memset(string_buffer, 0,1024);
 	}	
 
 
