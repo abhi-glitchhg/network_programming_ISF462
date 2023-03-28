@@ -52,22 +52,24 @@ int main(){
 	server_address.sin_port = htons(server_port);
 
 
-	int socket_flag = socket(AF_INET, SOCK_STREAM,0 );
+	int server_socket = socket(AF_INET, SOCK_STREAM,0 );
 
-	if (socket_flag<0)
+	if (server_socket<0)
 		perror("unable to create socket \n");
 
 
 
-	int binding_status = bind(socket_flag, (struct sockaddr *) &server_address, sizeof(server_address));
+	int binding_status = bind(server_socket, (struct sockaddr *) &server_address, sizeof(server_address));
 	if (binding_status <0)
 		perror( "error while binding \n");
 
-	int listening_status = listen(socket_flag, 10);
+	int listening_status = listen(server_socket, 10);
      	if (listening_status <0)
 		perror("Server is unable to listen :( \n");
 
 	printf("Server listening on %d\n", server_port);
+
+	char buff[1024];
 
 	while (true){
 	
@@ -77,20 +79,15 @@ int main(){
 		socklen_t cli_addr_size = sizeof(client_address);
 
 		client_socket = accept(
-				socket_flag , (struct sockaddr *)&client_address, &cli_addr_size);
+				server_socket , (struct sockaddr *)&client_address, &cli_addr_size);
 		if (client_socket<0)
 			perror("Error while accepting incoming connections : \n");
-		printf("connected with one of the incoming connection");
+		printf("connected with one of the incoming connection \n");
 
-		pthread_t t;
-		int * pclient = malloc(sizeof(int));
-		*pclient = client_socket;
-		//
-		pthread_create(&t, NULL ,handle_connection, pclient);
-		// spawn a  new thread for the same;
-		//
-		//
-	
+		size_t bytes_read; 
+		while (bytes_read = recv(client_socket, buff, 1024, 0)){
+			printf("%s", buff);
+	} 
 	}
 	return 0;
 }
