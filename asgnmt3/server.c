@@ -74,8 +74,10 @@ int main(){
 		// accept a new connection
 		printf("waiting for a connection \n");
 
+		socklen_t cli_addr_size = sizeof(client_address);
+
 		client_socket = accept(
-				socket_flag , (struct sockaddr *)&client_address,sizeof(client_address) );
+				socket_flag , (struct sockaddr *)&client_address, &cli_addr_size);
 		if (client_socket<0)
 			perror("Error while accepting incoming connections : \n");
 		printf("connected with one of the incoming connection");
