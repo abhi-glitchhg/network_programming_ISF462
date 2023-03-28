@@ -15,16 +15,19 @@ void* handle_connection(int* p_client){
 
 	char buff[1024];
 	size_t bytes_read; 
-	while (bytes_read = read(client_loc, buff, 1024)){
-		buff[bytes_read-1] = 0; // remove the new line character and replace with stop  
+	while (bytes_read = recv(client_loc, buff, 1024,0)){
+	//	buff[bytes_read-1] = 0; // remove the new line character and replace with stop  
 		if (bytes_read==5)
-			// check if the word is quit
 			if (buff[0]=='q' && buff[1] =='u' && buff[2]=='i' && buff[4] =='t')
 				{
 					close(client_loc); 
+					exit(EXIT_SUCCESS);
 					return NULL;
 				}
 		printf("%s", buff);
+		fflush(stdout);
+		printf("%c",'\n');
+		memset(buff, 0,1024);
 	}
 	return NULL;
 
@@ -84,11 +87,20 @@ int main(){
 			perror("Error while accepting incoming connections : \n");
 		printf("connected with one of the incoming connection \n");
 
-		size_t bytes_read; 
-		while (bytes_read = recv(client_socket, buff, 1024, 0)){
-			printf("%s", buff);
-			printf("\n");
-	} 
+		//size_t bytes_read; 
+		//while (bytes_read = recv(client_socket, buff, 1024, 0)){
+		//	printf("%s", buff);
+		//	pr.intf("\n");
+	//}
+		
+
+		pthread_t t;
+		int * pclient = malloc(sizeof(int));
+
+		*pclient = client_socket;
+
+		pthread_create(&t, NULL , handle_connection, pclient);	
+		
 	}
 	return 0;
 }
