@@ -43,26 +43,20 @@ int main(){
 	int connection_flag = connect(socket_flag, (struct sockaddr *) & server_socket, sizeof(server_socket) );
 
 	if (connection_flag<0)
-		perror(" failed to connect to the server");
-
+	{		perror(" failed to connect to the server");
+			exit(EXIT_FAILURE);
+	}
 	char string_buffer[1024];
 	char stopword[1024];
 	stopword[0] = 'q'; stopword[1] = 'u' ; stopword[2] = 'i' ; stopword[3] ='t' ;
-	printf(" eneter words here; to stop enter 'quit \n: ");
+	printf(" eneter words here; to stop the process, enter 'quit' and process will terminate. \n: ");
 	
         while(true){ 
-		sleep(2);
-		printf("enter a word\n");
-		scanf("%s", string_buffer);
+		fgets(string_buffer, sizeof(string_buffer), stdin);
 
 		int len_string = strlen(string_buffer);
 
-		printf("%s %d",string_buffer, len_string);
-		if (len_string == 4){
-			if (string_buffer[0]=='q' && string_buffer[1] == 'u' && string_buffer[2] =='i' && string_buffer[3] == 't')
-				break;
-		
-		}	
+
 
 //		if (write( socket_flag, string_buffer, len_string)<0)
 //		{
@@ -75,7 +69,12 @@ int main(){
 			perror("error while sending the data");
 			exit(EXIT_FAILURE);
 		}
-
+		if (len_string == 5){
+			if (string_buffer[0]=='q' && string_buffer[1] == 'u' && string_buffer[2] =='i' && string_buffer[3] == 't')
+				
+				break;
+		
+		}	
 		memset(string_buffer, 0,1024);
 	}	
 

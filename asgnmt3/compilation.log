@@ -1,0 +1,247 @@
+Script started on 2023-03-29 10:34:41+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="204" LINES="55"]
+Mai bhi linux wala :) !
+⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠿⠁⠻⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⡿⠟⠋⠉⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠉⠙⠛⢿⣿⣿
+⣿⡟⢀⡶⠛⠛⠛⠀⠀⢀⣤⣤⣤⡀⠀⠀⠀⣠⣤⣤⡀⠀⠀⠙⠛⠛⢶⡄⢹⣿
+⣿⠁⢸⡇⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡷⠀⠀⠀⠀⠀⢸⡇⠀⣿
+⣿⣇⠈⢧⣄⣀⣠⣄⠀⠀⠙⠛⠋⢀⠀⠀⣀⠙⠛⠛⠁⠀⢠⣄⣀⣠⡼⠃⣰⣿
+⣿⣿⣷⣄⣈⠉⢉⣀⣤⣄⠀⠀⠀⣿⠁⠀⣿⠀⠀⠀⣀⣤⣄⡉⠉⣉⣠⣾⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡛⠷⢶⣦⣤⣤⣤⣤⣤⡶⠾⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+[?2004h]7;file://abhijit-hp/home/abhijit/netprog/asgnmt3]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mt server.log[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[38;2;85;85;85m server.log[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m server.log[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mserver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mserver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cs[38;2;85;85;85merver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4ms[38;2;85;85;85m[24merver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4me[38;2;85;85;85m[24mrver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mr[38;2;85;85;85m[24mver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;175;255m[4mver.log[197C[30m(B[m[1m[32m(base) (B[m[197C[55C[K[197C[1m[32m(base) (B[m[197C[54C[K[197C[1m[32m(base) (B[m[197C[53C[K[197C[1m[32m(base) (B[m[197C[52C[38;2;0;175;255m[4mc[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C
+[30m(B[m[?2004l]0;cat server.c ~/n/asgnmt3[30m(B[m#include<stdio.h>
+#include<stdlib.h>
+#include<sys/socket.h>
+#include<netinet/in.h>
+#include<arpa/inet.h>
+#include<string.h>
+#include<unistd.h>
+#include<stdbool.h>
+#include<pthread.h>
+
+
+#define SHELLSCRIPT1 "ifconfig  | grep 'inet ' | awk {'print $2'} | sed 1q >> myip.txt"
+#define SHELLSCRIPT2 "rm myip.txt"
+
+
+// handle the threading logic 
+void* handle_connection(void* p_client){
+	int client_loc = *((int*)p_client);
+	free(p_client);
+
+	pthread_t self_id ;
+
+	self_id = pthread_self();
+
+
+	char buff[1024];
+	size_t bytes_read; 
+	while (bytes_read = recv(client_loc, buff, 1024,0)){
+		if (bytes_read==5)
+			if (buff[0]=='q' && buff[1] =='u' && buff[2]=='i' && buff[3] =='t')
+				{
+					printf("exit for the thread with threadid %lu \n", self_id);
+					fflush(stdout);
+					close(client_loc); 
+					return NULL;
+				}
+		printf("%lu %s",self_id, buff);
+		fflush(stdout);
+		printf("%c",'\n');
+		memset(buff, 0,1024);
+	}
+	return NULL;
+
+
+	
+}
+
+int main(){
+
+	
+	struct sockaddr_in client_address;
+    	socklen_t client_address_len = sizeof(client_address);
+ 	int client_socket;	
+	int server_port;
+	struct sockaddr_in server_address; // ipv4
+	server_address.sin_family = AF_INET; 
+	server_address.sin_addr.s_addr = INADDR_ANY;
+	// take user input for the server ip and port;
+	printf(" give port address \n");
+
+	scanf("%d", &server_port);
+
+	server_address.sin_port = htons(server_port);
+
+
+	int server_socket = socket(AF_INET, SOCK_STREAM,0 );
+
+	if (server_socket<0){
+		perror("unable to create socket \n");
+		exit(EXIT_FAILURE);
+	}
+
+
+	int binding_status = bind(server_socket, (struct sockaddr *) &server_address, sizeof(server_address));
+	if (binding_status <0)
+	{
+		perror( "error while binding \n");
+		exit(EXIT_FAILURE);
+	}
+
+	int listening_status = listen(server_socket, 10);
+     	if (listening_status <0){
+		perror("Server is unable to listen :( \n");
+		exit(EXIT_FAILURE);
+	}
+
+
+	char output[256];
+	system(SHELLSCRIPT1);
+
+	FILE * ptr = fopen("myip.txt", "r");
+	fscanf(ptr, "%s", output);
+	 system(SHELLSCRIPT2);
+	printf("Host ip of the server is : %s \n", output);
+	printf("Server listening on port number %d\n", server_port);
+
+
+	char buff[1024];
+
+	while (true){
+	
+		// accept a new connection
+		printf("\nwaiting for a connection \n");
+
+		socklen_t cli_addr_size = sizeof(client_address);
+
+		client_socket = accept(
+				server_socket , (struct sockaddr *)&client_address, &cli_addr_size);
+		if (client_socket<0)
+			perror("Error while accepting incoming connections : \n");
+		printf("connected with one of the incoming connection \n");
+
+		//size_t bytes_read; 
+		//while (bytes_read = recv(client_socket, buff, 1024, 0)){
+		//	printf("%s", buff);
+		//	pr.intf("\n");
+	//}
+		pthread_t t;
+		int * pclient = malloc(sizeof(int));
+
+		*pclient = client_socket;
+
+		pthread_create(&t, NULL , handle_connection, pclient);	
+		
+	}
+	return 0;
+}
+[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat server.c[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mat server.c[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[38;2;85;85;85mt server.c[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mr[30m(B[m[K[197C[1m[32m(base) (B[m[197C[44C[38;2;85;85;85mgo [197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0m [30m(B[m[K[197C[1m[32m(base) (B[m[197C[45C [197C[1m[32m(base) (B[m[197C[45C[K[197C[1m[32m(base) (B[m[197C[44C[K[197C[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;85;85;85m server.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m server.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mserver.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mserver.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cc[K[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mompilation.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mc[38;2;85;85;85m[24mompilation.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4ml[30m(B[m[K[197C[1m[32m(base) (B[m[197C[47C[38;2;85;85;85mient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4me[30m(B[m[K[197C[1m[32m(base) (B[m[197C[48C[38;2;0;175;255mcle[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[K[197C[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mcl[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mi[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;85;85;85ment.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;175;255m[4ment.c[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C
+[30m(B[m[?2004l]0;cat client.c ~/n/asgnmt3[30m(B[m#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+#include<sys/socket.h>
+#include<netinet/in.h>
+#include<arpa/inet.h>
+#include<string.h>
+#include<stdbool.h>
+int main(){
+
+	char server_ip[16];
+//	char server_port[5];
+	//create a socket
+	int server_port;
+	int socket_flag = socket(AF_INET, SOCK_STREAM,0);
+	char newline_char = '\n';
+
+	if (socket_flag==-1)
+		printf("socket flag is -1");	
+
+
+	//take input for the ip of the server
+	printf("enter the server Ip address\n");
+	scanf("%s", server_ip);
+	server_ip[strcspn(server_ip, "\n")] = 0;
+
+	printf("enter the port of the server\n");
+	scanf("%d", &server_port);
+
+	struct sockaddr_in  server_socket; // ipv4
+	
+	 server_socket.sin_family = AF_INET;
+	 server_socket.sin_port = htons(server_port);
+	 server_socket.sin_addr.s_addr = inet_addr(server_ip);
+
+	    if(inet_pton(AF_INET,server_ip ,& server_socket.sin_addr) < 1){
+        	perror("client: inet_pton() error ->");
+        	exit(EXIT_FAILURE);
+    }
+
+
+	// connect
+	int connection_flag = connect(socket_flag, (struct sockaddr *) & server_socket, sizeof(server_socket) );
+
+	if (connection_flag<0)
+	{		perror(" failed to connect to the server");
+			exit(EXIT_FAILURE);
+	}
+	char string_buffer[1024];
+	char stopword[1024];
+	stopword[0] = 'q'; stopword[1] = 'u' ; stopword[2] = 'i' ; stopword[3] ='t' ;
+	printf(" eneter words here; to stop the process, enter 'quit' and process will terminate. \n: ");
+	
+        while(true){ 
+		fgets(string_buffer, sizeof(string_buffer), stdin);
+
+		int len_string = strlen(string_buffer);
+
+
+
+//		if (write( socket_flag, string_buffer, len_string)<0)
+//		{
+//		perror("error while writing the data");
+///		exit(EXIT_FAILURE);
+//		}
+
+		if (send(socket_flag, string_buffer, len_string,0) < 0)
+		{
+			perror("error while sending the data");
+			exit(EXIT_FAILURE);
+		}
+		if (len_string == 5){
+			if (string_buffer[0]=='q' && string_buffer[1] == 'u' && string_buffer[2] =='i' && string_buffer[3] == 't')
+				
+				break;
+		
+		}	
+		memset(string_buffer, 0,1024);
+	}	
+
+
+
+	 close(socket_flag);
+
+	//take input until the input is quit
+		
+
+
+	// close connection
+
+
+
+
+
+	return 0;
+
+
+}
+[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mserver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mserver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cs[38;2;85;85;85merver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4ms[38;2;85;85;85m[24merver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4me[38;2;85;85;85m[24mrver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mr[38;2;85;85;85m[24mver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;175;255m[4mver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[10D [38;2;0;175;255m-o[30m(B[m [38;2;0;175;255m[4mserver[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
+[30m(B[m[?2004l]0;gcc server.c -o serv ~/n/asgnmt3[30m(B[m[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[38;2;85;85;85mcc server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m server.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mserver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mserver.c -o server[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cc[K[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mlient.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mc[38;2;85;85;85m[24mlient.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mlient.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[10D [38;2;0;175;255m-o[30m(B[m [38;2;0;175;255m[4mclient[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
+[30m(B[m[?2004l]0;gcc client.c -o clie ~/n/asgnmt3[30m(B[m[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ce[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0me[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mx[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mex[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mexi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mt[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;0;95;215mexit[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[197C[1m[32m(base) (B[m[197C[45C
+[30m(B[m[?2004l]0;exit ~/n/asgnmt3[30m(B[m[30m(B[m[?2004l
+Script done on 2023-03-29 10:34:59+05:30 [COMMAND_EXIT_CODE="0"]

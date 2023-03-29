@@ -14,22 +14,27 @@
 
 
 // handle the threading logic 
-void* handle_connection(int* p_client){
-	int client_loc = *p_client;
+void* handle_connection(void* p_client){
+	int client_loc = *((int*)p_client);
 	free(p_client);
+
+	pthread_t self_id ;
+
+	self_id = pthread_self();
+
 
 	char buff[1024];
 	size_t bytes_read; 
 	while (bytes_read = recv(client_loc, buff, 1024,0)){
-	//	buff[bytes_read-1] = 0; // remove the new line character and replace with stop  
 		if (bytes_read==5)
-			if (buff[0]=='q' && buff[1] =='u' && buff[2]=='i' && buff[4] =='t')
+			if (buff[0]=='q' && buff[1] =='u' && buff[2]=='i' && buff[3] =='t')
 				{
+					printf("exit for the thread with threadid %lu \n", self_id);
+					fflush(stdout);
 					close(client_loc); 
-					exit(EXIT_SUCCESS);
 					return NULL;
 				}
-		printf("%s", buff);
+		printf("%lu %s",self_id, buff);
 		fflush(stdout);
 		printf("%c",'\n');
 		memset(buff, 0,1024);
@@ -86,7 +91,7 @@ int main(){
 	FILE * ptr = fopen("myip.txt", "r");
 	fscanf(ptr, "%s", output);
 	 system(SHELLSCRIPT2);
-	printf("Host ip of the server is : %s", output);
+	printf("Host ip of the server is : %s \n", output);
 	printf("Server listening on port number %d\n", server_port);
 
 
@@ -110,8 +115,6 @@ int main(){
 		//	printf("%s", buff);
 		//	pr.intf("\n");
 	//}
-		
-
 		pthread_t t;
 		int * pclient = malloc(sizeof(int));
 
@@ -122,7 +125,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-

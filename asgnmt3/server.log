@@ -1,0 +1,99 @@
+Script started on 2023-03-29 10:36:24+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+Mai bhi linux wala :) !
+⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠿⠁⠻⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⡿⠟⠋⠉⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠉⠙⠛⢿⣿⣿
+⣿⡟⢀⡶⠛⠛⠛⠀⠀⢀⣤⣤⣤⡀⠀⠀⠀⣠⣤⣤⡀⠀⠀⠙⠛⠛⢶⡄⢹⣿
+⣿⠁⢸⡇⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡷⠀⠀⠀⠀⠀⢸⡇⠀⣿
+⣿⣇⠈⢧⣄⣀⣠⣄⠀⠀⠙⠛⠋⢀⠀⠀⣀⠙⠛⠛⠁⠀⢠⣄⣀⣠⡼⠃⣰⣿
+⣿⣿⣷⣄⣈⠉⢉⣀⣤⣄⠀⠀⠀⣿⠁⠀⣿⠀⠀⠀⣀⣤⣄⡉⠉⣉⣠⣾⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡛⠷⢶⣦⣤⣤⣤⣤⣤⡶⠾⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+[?2004h]7;file://abhijit-hp/home/abhijit/netprog/asgnmt3]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m> [K[73C[1m[32m(base) (B[m[73C[41C.[73C[1m[32m(base) (B[m[73C[42C[38;2;0;95;215m.[73C[30m(B[m[1m[32m(base) (B[m[73C[42C[38;2;85;85;85m/client[73C[30m(B[m[1m[32m(base) (B[m[73C[42C[38;2;0;95;215m/[38;2;85;85;85mclient[73C[30m(B[m[1m[32m(base) (B[m[73C[43C[38;2;0;95;215ms[30m(B[m[K[73C[1m[32m(base) (B[m[73C[44C[38;2;85;85;85merver[73C[30m(B[m[1m[32m(base) (B[m[73C[44C[38;2;255;0;0m./s[38;2;85;85;85merver[73C[30m(B[m[1m[32m(base) (B[m[73C[44C[38;2;255;0;0me[38;2;85;85;85mrver[73C[30m(B[m[1m[32m(base) (B[m[73C[45C[38;2;255;0;0mr[38;2;85;85;85mver[73C[30m(B[m[1m[32m(base) (B[m[73C[46C[38;2;255;0;0mver[73C[30m(B[m[1m[32m(base) (B[m[73C[49C[38;2;0;95;215m./server[73C[30m(B[m[1m[32m(base) (B[m[73C[49C[73C[1m[32m(base) (B[m[73C[49C
+[30m(B[m[?2004l]0;./server ~/n/asgnmt3[30m(B[m give port address 
+9090
+Host ip of the server is : 10.4.19.56 
+Server listening on port number 9090
+
+waiting for a connection 
+connected with one of the incoming connection 
+
+waiting for a connection 
+140620146427584 
+
+140620146427584 hii from client1
+
+connected with one of the incoming connection 
+
+waiting for a connection 
+140620138034880 
+
+140620138034880 hii from client 2
+
+connected with one of the incoming connection 
+
+waiting for a connection 
+140620129642176 
+
+140620129642176 hii from client 3
+
+connected with one of the incoming connection 
+
+waiting for a connection 
+140619913623232 
+
+140619913623232 hii from client 3
+
+140619913623232 ah typo; its client 4
+
+connected with one of the incoming connection 
+
+waiting for a connection 
+140619905230528 
+
+140619905230528 hii from client 5
+
+140620146427584 hey this assignment was a nice experience
+
+140620138034880 i really enjoyed and learned stuff during this
+
+140620129642176 yes definitely not easy one
+
+140619913623232 but theeke
+
+140619905230528 chalta hai
+
+140620146427584 time to say good bye
+
+exit for the thread with threadid 140620146427584 
+140620138034880 time to say goodbye
+
+exit for the thread with threadid 140620138034880 
+140620129642176 time to say goodbye quit
+
+140619913623232 time to say goodbye
+
+exit for the thread with threadid 140619913623232 
+connected with one of the incoming connection 
+
+waiting for a connection 
+140619896837824 
+
+140619896837824 hey this is new client ! i just joined
+
+140619896837824 how are you
+
+140619896837824 time to say bye
+
+exit for the thread with threadid 140619896837824 
+140619905230528 time to say good bye 
+
+exit for the thread with threadid 140619905230528 
+exit for the thread with threadid 140620129642176 
+^C[2m⏎(B[m                                                                               ⏎ [K[?2004h]0;~/n/asgnmt3[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt3(B[m (master)(B[m (B[m[31m[[1m[31mSIGINT(B[m[31m](B[m(B[m> [K[73C[1m[32m(base) (B[m[73C[50Ce[73C[1m[32m(base) (B[m[73C[51C[38;2;85;85;85mxit[73C[30m(B[m[1m[32m(base) (B[m[73C[51C[38;2;255;0;0me[38;2;85;85;85mxit[73C[30m(B[m[1m[32m(base) (B[m[73C[51C[38;2;255;0;0mx[38;2;85;85;85mit[73C[30m(B[m[1m[32m(base) (B[m[73C[52C[38;2;0;95;215mex[38;2;85;85;85mit[73C[30m(B[m[1m[32m(base) (B[m[73C[52C[38;2;0;95;215mi[38;2;85;85;85mt[73C[30m(B[m[1m[32m(base) (B[m[73C[53C[38;2;255;0;0mexi[38;2;85;85;85mt[73C[30m(B[m[1m[32m(base) (B[m[73C[53C[38;2;255;0;0mt[73C[30m(B[m[1m[32m(base) (B[m[73C[54C[38;2;0;95;215mexit[73C[30m(B[m[1m[32m(base) (B[m[73C[54C[73C[1m[32m(base) (B[m[73C[54C
+[30m(B[m[?2004l]0;exit ~/n/asgnmt3[30m(B[m[30m(B[m[?2004l
+Script done on 2023-03-29 10:42:04+05:30 [COMMAND_EXIT_CODE="130"]
