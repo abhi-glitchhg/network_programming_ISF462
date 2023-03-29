@@ -1,4 +1,4 @@
-#Problem Statement
+# Problem Statement
 
 Accept a port number from the user to bind a server using TCP/IP to that port. (4 marks) The server prints its IP address and port number after binding. (2 marks)
 
@@ -9,7 +9,7 @@ For every client connected, the server spawns a new thread. (4 marks) The client
 If a client disconnects, the server terminates the corresponding thread. (2 marks) You may assume that there can be, at the most, five clients in parallel. (2 marks)
 
 
-#Mandatory instructions (50% marks deducted if not followed)
+# Mandatory instructions (50% marks deducted if not followed)
 
 The server and client codes are in separate files.
 
