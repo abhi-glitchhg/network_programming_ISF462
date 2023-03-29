@@ -15,8 +15,8 @@
 
 // handle the threading logic 
 void* handle_connection(void* p_client){
-	int client_loc = *((int*)p_client);
-	free(p_client);
+	int client_loc = *((int *)p_client);
+	free(p_client); // free the space;
 
 	pthread_t self_id ;
 
