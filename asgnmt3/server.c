@@ -8,8 +8,8 @@
 #include<stdbool.h>
 #include<pthread.h>
 
-
-#define SHELLSCRIPT1 "ifconfig  | grep 'inet ' | awk {'print $2'} | sed 1q >> myip.txt"
+#define MATCHPATTERN "127.*"
+#define SHELLSCRIPT1 " ifconfig  | grep 'inet ' | awk {'print $2'} | grep -v '127.*' >> myip.txt "
 #define SHELLSCRIPT2 "rm myip.txt"
 
 
