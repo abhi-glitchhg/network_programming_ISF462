@@ -6,7 +6,7 @@ Use HTTP's GET method to request the default HTML file from the server (10 marks
 
 Store the received HTML file (without the HTTP response) with the filename "test.html" in the current folder (4 marks)
 
-#Mandatory instructions (50% marks deducted if not followed)
+# Mandatory instructions (50% marks deducted if not followed)
 
 
 Use script command to record the compilation of the code and the executions of the process.
