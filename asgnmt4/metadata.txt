@@ -1,0 +1,15 @@
+HTTP/1.0 200 OK
+Accept-Ranges: none
+Age: 550081
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 Apr 2023 10:11:22 GMT
+Etag: "3147526947+gzip"
+Expires: Sat, 15 Apr 2023 10:11:22 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (dcb/7F5E)
+Vary: Accept-Encoding
+X-Cache: HIT
+Content-Length: 1256
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: close

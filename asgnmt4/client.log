@@ -1,4 +1,4 @@
-Script started on 2023-04-02 22:15:47+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+Script started on 2023-04-08 15:41:08+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="204" LINES="55"]
 Mai bhi linux wala :) !
 ⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠿⠁⠻⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿
@@ -13,60 +13,156 @@ Mai bhi linux wala :) !
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡛⠷⢶⣦⣤⣤⣤⣤⣤⡶⠾⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-[?2004h]7;file://abhijit-hp/home/abhijit/netprog/asgnmt4]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[73C[1m[32m(base) (B[m[73C[41C[41Cc[J[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mear[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0me[38;2;85;85;85mar[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0ma[38;2;85;85;85mr[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;255;0;0mr[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mclear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[197C[1m[32m(base) (B[m[197C[46C
-[30m(B[m[?2004l]0;clear ~/n/asgnmt4[30m(B[m[H[2J[3J[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cs[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcript --log-out client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ms[38;2;85;85;85mcript --log-out client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mript --log-out client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[K[197C[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mt client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[38;2;85;85;85m client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m client.log[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mclient.log[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mclient.log[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cc[38;2;85;85;85mlient.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mc[38;2;85;85;85m[24mlient.log[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4ml[38;2;85;85;85m[24mient.log[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mi[38;2;85;85;85m[24ment.log[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;175;255m[4me[38;2;85;85;85m[24mnt.log[197C[30m(B[m[1m[32m(base) (B[m[197C[49C[38;2;0;175;255m[4mn[38;2;85;85;85m[24mt.log[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4mt[38;2;85;85;85m[24m.log[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255m[4m.[38;2;85;85;85m[24mlog[197C[30m(B[m[1m[32m(base) (B[m[197C[52C[38;2;0;175;255m[4mc[30m(B[m[K[197C[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C
+[?2004h]7;file://abhijit-hp/home/abhijit/netprog/asgnmt4]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cl[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85ms[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ms[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mls[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[K[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mt client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cclient.c[197C[1m[32m(base) (B[m[197C[53C[38;2;0;175;255m[4mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[197C[1m[32m(base) (B[m[197C[53C
 [30m(B[m[?2004l]0;cat client.c ~/n/asgnmt4[30m(B[m#include<stdio.h>
+#include<unistd.h>
 #include<stdlib.h>
+#include<stdbool.h>
+#include<arpa/inet.h>
 #include<string.h>
+#include<netdb.h>
 
-int main( int argc, char **argv){
+int main(int argc, char * argv[]){
 
-	if (argc!=2)
-	{
-		printf("number of argument not valid");
-		return 1;
+	if ( argc!=2){
+		perror("number of arguments"); exit(EXIT_FAILURE);
 	}
 
-	char url[1024];
+	char url[1024] ;// / = argv[1];
+
+	//printf("%s", url); 
+	//fgets(url, 1024, stdin);
+	//url[strcspn(url, "\n")] = 0;
+	strcpy(url, argv[1]);
+ 	printf("%s\n", url);	
+	char *host = strtok(url, "/");
+	char *path = strtok(NULL,"");
+
+	if (path == NULL) 
+		path = "/";
 
 
-	//printf("%s", argv[1]); 
-	char command[1024]= "curl ";
+	struct hostent *he = gethostbyname(host);
+	if (he==NULL){
+	perror("host creation"); 
+	} 
 
-	//printf("%d",sizeof(argv[1])); 
-	for (int i=0; i< strlen(argv[1]); i++){
-		command[i+5] = argv[1][i];
+	struct in_addr **addr_list = (struct in_addr ** ) he-> h_addr_list;
+
+	char ip[1024] ;
+	strcpy(ip, inet_ntoa( *addr_list[0]) );
+
+
+	// create a socket
+	int socket_flag = socket(AF_INET, SOCK_STREAM, 0); // tcp
+							   //
+	if (socket_flag <0){
+	perror("socket creation"); exit(EXIT_FAILURE);
+	}
+
+	// connection
+	//
+	struct sockaddr_in server;
+
+	server.sin_family = AF_INET; server.sin_port = htons(80); inet_pton(AF_INET, ip, &server.sin_addr);
+
+	if (connect( socket_flag, (struct sockaddr *) &server, sizeof(server) )<0){
+	perror("error while connecting to the server" ); exit(EXIT_FAILURE);
 
 	}
 
-	char redirect[]= " > test.html\n";
+	char get_req[1024];
 
-	int command_size = strlen(command);
-//	printf(" \n%s", command );
-//	printf("%d", strlen(redirect)) ;
-	for (int i=0; i<strlen(redirect); i++ )	
+	sprintf(get_req, "GET /%s HTTP/1.0\r\nHost: %s\r\n\r\n", path, host);
 
-		command[i+command_size] = redirect[i];
+	if (send(socket_flag, get_req, strlen(get_req),0)<0){
+	perror("error while sending data"); exit(EXIT_FAILURE);
+	}
 
+	char response[40960];
+
+	FILE *fp = fopen("test.html", "wb");
+	if (fp==NULL){
+	perror("error while opening file");exit(EXIT_FAILURE);}
+	int response_len= 0; int content_len = 0; int is_body =0;
+
+	int pre_val =0;
+	while (true){
+	int received = recv(socket_flag, response+response_len, 40960 - response_len,0);
 	
 
-	printf("executing following curl command \n%s", command);
-
-	system(command);
-
+	if (received<0){
+	printf("some error while receiving the data"); 
 	return 1;
+	}
+
+	else if (received ==0){
+	printf("received all the data; \n");
+	break;
+	}
+	pre_val  = response_len;
+	response_len += received; 
+	response[response_len] = '\0';
+	if (!is_body){
+		char *content_length_ptr = strstr(response, "Content-Length");
+		if (content_length_ptr!=NULL){
+			sscanf(content_length_ptr, "Content-Length: %d", &content_len);
+			is_body = 1;
+		}
 	
+	}
+
+
+	if (is_body ){
+		
+		char *close_ptr = strstr(response, "Connection: close");
+		//*close_ptr = '\0';
+		FILE *md =fopen( "metadata.txt", "wb");
+		fwrite(response, sizeof(char),close_ptr - response + sizeof("Connection: close\n"), md); 
+		fclose(md);
+		//fwrite(response, sizeof(char), received, fp );
+		fwrite(close_ptr+sizeof("Connection: close\n"), sizeof(char), received, fp );
+		printf("writing data to the file\n metadata about the response can be found in metadata.txt \n and the html content is stored at test.html \n");
+		if (response_len >= content_len)
+			break;
+	
+	}
+	
+
+
+	}
+	printf("done :)");
+
+	fclose(fp);
+	close(socket_flag);
+	return 1;
+
 
 }
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[38;2;85;85;85mcc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[19D [38;2;0;175;255m[4mclient.c[30m(B[m [38;2;0;175;255m-o[30m(B[m [38;2;0;175;255m[4mclient[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
-[30m(B[m[?2004l]0;gcc client.c -o clie ~/n/asgnmt4[30m(B[m[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[38;2;85;85;85mcc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[K[197C[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mgc[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[K[197C[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41C,[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0m,[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/client "example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/client "example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[14D [38;2;153;153;0m"example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
-[30m(B[m[?2004l]0;./client "example.co ~/n/asgnmt4[30m(B[mexecuting following curl command 
-curl example.com > test.html
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1256  100  1256    0     0   139k      0 --:--:-- --:--:-- --:--:--  153k
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m (B[m[31m[[1m[31m1(B[m[31m](B[m(B[m> [K[197C[1m[32m(base) (B[m[197C[45Cc[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mat client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0mc[38;2;85;85;85mat client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0ma[38;2;85;85;85mt client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;255;0;0mt[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215mcat[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215m [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[49C [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[49Ct[K[197C[1m[32m(base) (B[m[197C[50C[38;2;85;85;85mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4mt[38;2;85;85;85m[24mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4me[38;2;85;85;85m[24mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255m[4mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[197C[1m[32m(base) (B[m[197C[58C
-[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m<!doctype html>
+[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cg[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mg[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mc client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mgcc[38;2;85;85;85m client.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mclient.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mclient.c -o client[197C[30m(B[m[1m[32m(base) (B[m[197C[45Cclient.c -o client[197C[1m[32m(base) (B[m[197C[63C[18D[38;2;0;175;255m[4mclient.c[30m(B[m [38;2;0;175;255m-o[30m(B[m [38;2;0;175;255m[4mclient[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[63C
+[30m(B[m[?2004l]0;gcc client.c -o clie ~/n/asgnmt4[30m(B[m[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/client wikipedia.com[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/client wikipedia.com[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[14D [38;2;0;175;255mwikipedia.com[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[K[197C[1m[32m(base) (B[m[197C[62C[K[197C[1m[32m(base) (B[m[197C[61C[K[197C[1m[32m(base) (B[m[197C[60C[K[197C[1m[32m(base) (B[m[197C[59C[K[197C[1m[32m(base) (B[m[197C[58C[K[197C[1m[32m(base) (B[m[197C[57C[K[197C[1m[32m(base) (B[m[197C[56C[K[197C[1m[32m(base) (B[m[197C[55C[K[197C[1m[32m(base) (B[m[197C[54C[K[197C[1m[32m(base) (B[m[197C[53C[K[197C[1m[32m(base) (B[m[197C[52C[K[197C[1m[32m(base) (B[m[197C[51C[K[197C[1m[32m(base) (B[m[197C[50Ce[197C[1m[32m(base) (B[m[197C[51C[38;2;85;85;85mxample.com[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255me[38;2;85;85;85mxample.com[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255mxample.com[197C[30m(B[m[1m[32m(base) (B[m[197C[61C[197C[1m[32m(base) (B[m[197C[61C
+[30m(B[m[?2004l]0;./client example.com ~/n/asgnmt4[30m(B[mexample.com
+writing data to the file
+ metadata about the response can be found in metadata.txt 
+ and the html content is stored at test.html 
+done :)[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m (B[m[31m[[1m[31m1(B[m[31m](B[m(B[m> [K[197C[1m[32m(base) (B[m[197C[45Cc[197C[1m[32m(base) (B[m[197C[46C[38;2;255;0;0mc[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mat client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0ma[38;2;85;85;85mt client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;255;0;0mt[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215mcat[38;2;85;85;85m client.c[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215m [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[49C [38;2;85;85;85mclient.c[197C[30m(B[m[1m[32m(base) (B[m[197C[49Cm[K[197C[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4mm[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;85;85;85mainc[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4me[30m(B[m[K[197C[1m[32m(base) (B[m[197C[51C[38;2;85;85;85mtadata.txt [197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255m[4mtadata.txt [197C[30m(B[m[1m[32m(base) (B[m[197C[62C [197C[1m[32m(base) (B[m[197C[62C[197C[1m[32m(base) (B[m[197C[62C
+[30m(B[m[?2004l]0;cat metadata.txt  ~/n/asgnmt4[30m(B[mHTTP/1.0 200 OK
+Accept-Ranges: none
+Age: 537959
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 08 Apr 2023 06:49:20 GMT
+Etag: "3147526947+gzip"
+Expires: Sat, 15 Apr 2023 06:49:20 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (nyb/1D34)
+X-Cache: HIT
+Content-Length: 1256
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: close
+[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat metadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mat metadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ma[38;2;85;85;85mt metadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0mt[38;2;85;85;85m metadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215mcat[38;2;85;85;85m metadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;0;95;215m [38;2;85;85;85mmetadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[45C [38;2;85;85;85mmetadata.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[45Ct[K[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4mt[38;2;85;85;85m[24mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;175;255m[4me[38;2;85;85;85m[24mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;0;175;255m[4mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[197C[1m[32m(base) (B[m[197C[54C
+[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m
+<!doctype html>
 <html>
 <head>
     <title>Example Domain</title>
@@ -112,52 +208,59 @@ curl example.com > test.html
 </div>
 </body>
 </html>
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mear[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0me[38;2;85;85;85mar[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0ma[38;2;85;85;85mr[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;255;0;0mr[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mclear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[197C[1m[32m(base) (B[m[197C[46C
-[30m(B[m[?2004l]0;clear ~/n/asgnmt4[30m(B[m[H[2J[3J[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/client "example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/client "example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[14D [38;2;153;153;0m"example.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[197C[1m[32m(base) (B[m[197C[62C[197C[1m[32m(base) (B[m[197C[61C[197C[1m[32m(base) (B[m[197C[60C[197C[1m[32m(base) (B[m[197C[59C[197C[1m[32m(base) (B[m[197C[58C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[57C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[56C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[55C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[54C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[53C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[52C[38;2;153;153;0m.com"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[51C[38;2;153;153;0mg.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[52C[38;2;153;153;0mo.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[38;2;153;153;0mo.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[38;2;153;153;0mg.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[55C[38;2;153;153;0ml.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[56C[38;2;153;153;0me.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[57C[197C[1m[32m(base) (B[m[197C[57C[C[38;2;153;153;0m.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[38;2;153;153;0mcom"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[57C[197C[1m[32m(base) (B[m[197C[62C
-[30m(B[m[?2004l]0;./client "google.com ~/n/asgnmt4[30m(B[mexecuting following curl command 
-curl google.com > test.html
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   219  100   219    0     0  20029      0 --:--:-- --:--:-- --:--:-- 21900
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m (B[m[31m[[1m[31m1(B[m[31m](B[m(B[m> [K[197C[1m[32m(base) (B[m[197C[45C./client "google.com"[197C[1m[32m(base) (B[m[197C[66C[21D[38;2;0;95;215m./client[30m(B[m [38;2;153;153;0m"google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[66C[21D[38;2;0;95;215mclear[30m(B[m[K[197C[1m[32m(base) (B[m[197C[50C[38;2;0;95;215m./client "google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[66C[13D [38;2;153;153;0m"google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[66C[21D[K[197C[1m[32m(base) (B[m[197C[45Cc[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0mc[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0ma[30m(B[m[K[197C[1m[32m(base) (B[m[197C[47C[38;2;85;85;85mt test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;255;0;0mt[38;2;85;85;85m test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215mcat[38;2;85;85;85m test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215m test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[10D [38;2;0;175;255m[4mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[197C[1m[32m(base) (B[m[197C[58C
-[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
-<TITLE>301 Moved</TITLE></HEAD><BODY>
-<H1>301 Moved</H1>
-The document has moved
-<A HREF="http://www.google.com/">here</A>.
-</BODY></HTML>
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mear[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0me[38;2;85;85;85mar[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0ma[38;2;85;85;85mr[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;255;0;0mr[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mclear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[197C[1m[32m(base) (B[m[197C[46C
-[30m(B[m[?2004l]0;clear ~/n/asgnmt4[30m(B[m[H[2J[3J[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cclear[197C[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mclear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[10D [38;2;0;175;255m[4mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[54C
-[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
-<TITLE>301 Moved</TITLE></HEAD><BODY>
-<H1>301 Moved</H1>
-The document has moved
-<A HREF="http://www.google.com/">here</A>.
-</BODY></HTML>
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ccat test.html[197C[1m[32m(base) (B[m[197C[54C[13D[38;2;0;95;215mcat[30m(B[m [38;2;0;175;255m[4mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[12D[38;2;0;95;215mle[30m(B[ma[38;2;0;175;255m[4mr[30m(B[m[K[197C[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mar[197C[30m(B[m[1m[32m(base) (B[m[197C[46C
-[30m(B[m[?2004l]0;clear ~/n/asgnmt4[30m(B[m[H[2J[3J[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mlear[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/client "google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[38;2;85;85;85m/client "google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/client "google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[62C[13D [38;2;153;153;0m"google.com"[197C[30m(B[m[1m[32m(base) (B[m[197C[62C[197C[1m[32m(base) (B[m[197C[61C[197C[1m[32m(base) (B[m[197C[60C[197C[1m[32m(base) (B[m[197C[61C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[60C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[59C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[58C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[57C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[56C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[55C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[54C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[53C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[52C[38;2;153;153;0m"[30m(B[m[K[197C[1m[32m(base) (B[m[197C[51C[38;2;153;153;0ma"[197C[30m(B[m[1m[32m(base) (B[m[197C[52C[38;2;153;153;0mb"[197C[30m(B[m[1m[32m(base) (B[m[197C[53C[38;2;153;153;0mh"[197C[30m(B[m[1m[32m(base) (B[m[197C[54C[38;2;153;153;0mi"[197C[30m(B[m[1m[32m(base) (B[m[197C[55C[38;2;153;153;0m-"[197C[30m(B[m[1m[32m(base) (B[m[197C[56C[38;2;153;153;0mg"[197C[30m(B[m[1m[32m(base) (B[m[197C[57C[38;2;153;153;0ml"[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[38;2;153;153;0mi"[197C[30m(B[m[1m[32m(base) (B[m[197C[59C[38;2;153;153;0mt"[197C[30m(B[m[1m[32m(base) (B[m[197C[60C[38;2;153;153;0mc"[197C[30m(B[m[1m[32m(base) (B[m[197C[61C[38;2;153;153;0mh"[197C[30m(B[m[1m[32m(base) (B[m[197C[62C[38;2;153;153;0mh"[197C[30m(B[m[1m[32m(base) (B[m[197C[63C[38;2;153;153;0mg"[197C[30m(B[m[1m[32m(base) (B[m[197C[64C[38;2;153;153;0m."[197C[30m(B[m[1m[32m(base) (B[m[197C[65C[38;2;153;153;0mg"[197C[30m(B[m[1m[32m(base) (B[m[197C[66C[38;2;153;153;0mi"[197C[30m(B[m[1m[32m(base) (B[m[197C[67C[38;2;153;153;0mt"[197C[30m(B[m[1m[32m(base) (B[m[197C[68C[38;2;153;153;0mh"[197C[30m(B[m[1m[32m(base) (B[m[197C[69C[38;2;153;153;0mu"[197C[30m(B[m[1m[32m(base) (B[m[197C[70C[38;2;153;153;0mb"[197C[30m(B[m[1m[32m(base) (B[m[197C[71C[38;2;153;153;0m."[197C[30m(B[m[1m[32m(base) (B[m[197C[72C[38;2;153;153;0mi"[197C[30m(B[m[1m[32m(base) (B[m[197C[73C[38;2;153;153;0mo"[197C[30m(B[m[1m[32m(base) (B[m[197C[74C[197C[1m[32m(base) (B[m[197C[75C
-[30m(B[m[?2004l]0;./client "abhi-glitc ~/n/asgnmt4[30m(B[mexecuting following curl command 
-curl abhi-glitchhg.github.io > test.html
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   162  100   162    0     0    293      0 --:--:-- --:--:-- --:--:--   292100   162  100   162    0     0    293      0 --:--:-- --:--:-- --:--:--   292
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m (B[m[31m[[1m[31m1(B[m[31m](B[m(B[m> [K[197C[1m[32m(base) (B[m[197C[45C./client "abhi-glitchhg.github.io"[197C[1m[32m(base) (B[m[197C[79C[34D[38;2;0;95;215m./client[30m(B[m [38;2;153;153;0m"abhi-glitchhg.github.io"[197C[30m(B[m[1m[32m(base) (B[m[197C[79C[34D[38;2;0;95;215mclear[30m(B[m[K[197C[1m[32m(base) (B[m[197C[50C[38;2;0;95;215mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[10D [38;2;0;175;255m[4mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C
-[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ccat test.html[197C[1m[32m(base) (B[m[197C[54C[13D[38;2;0;95;215mcat[30m(B[m [38;2;0;175;255m[4mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[54C
-[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Cc[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mc[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0ml[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mear[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;255;0;0me[38;2;85;85;85mar[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0ma[38;2;85;85;85mr[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;255;0;0mr[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;0;95;215mclear[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[197C[1m[32m(base) (B[m[197C[46C
-[30m(B[m[?2004l]0;clear ~/n/asgnmt4[30m(B[m[H[2J[3J[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ce[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0me[38;2;85;85;85mxit[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mx[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mex[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mexi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mt[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;0;95;215mexit[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[197C[1m[32m(base) (B[m[197C[45C
+                                                                                                                                                                                                                                                                                                                                                                                                    [2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41C.[197C[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m.[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;85;85;85m/client example.com[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;0;95;215m/client example.com[197C[30m(B[m[1m[32m(base) (B[m[197C[61C[12D [38;2;0;175;255mexample.com[197C[30m(B[m[1m[32m(base) (B[m[197C[61C[K[197C[1m[32m(base) (B[m[197C[60C[K[197C[1m[32m(base) (B[m[197C[59C[K[197C[1m[32m(base) (B[m[197C[58C[38;2;0;175;255mo[197C[30m(B[m[1m[32m(base) (B[m[197C[59C[38;2;0;175;255mr[197C[30m(B[m[1m[32m(base) (B[m[197C[60C[38;2;0;175;255mg[197C[30m(B[m[1m[32m(base) (B[m[197C[61C
+[30m(B[m[?2004l]0;./client example.org ~/n/asgnmt4[30m(B[mexample.org
+writing data to the file
+ metadata about the response can be found in metadata.txt 
+ and the html content is stored at test.html 
+done :)[2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m (B[m[31m[[1m[31m1(B[m[31m](B[m(B[m> [K[197C[1m[32m(base) (B[m[197C[45Cc[197C[1m[32m(base) (B[m[197C[46C[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0mc[38;2;85;85;85mat test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[46C[38;2;255;0;0ma[38;2;85;85;85mt test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[47C[38;2;255;0;0mt[38;2;85;85;85m test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215mcat[38;2;85;85;85m test.html[197C[30m(B[m[1m[32m(base) (B[m[197C[48C[38;2;0;95;215m [38;2;85;85;85mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[49C [38;2;85;85;85mtest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[49Ct[38;2;85;85;85mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4mt[38;2;85;85;85m[24mest.html[197C[30m(B[m[1m[32m(base) (B[m[197C[50C[38;2;0;175;255m[4me[38;2;85;85;85m[24mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[51C[38;2;0;175;255m[4mst.html[197C[30m(B[m[1m[32m(base) (B[m[197C[58C[197C[1m[32m(base) (B[m[197C[58C
+[30m(B[m[?2004l]0;cat test.html ~/n/asgnmt4[30m(B[m
+<!doctype html>
+<html>
+<head>
+    <title>Example Domain</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 2em;
+        background-color: #fdfdff;
+        border-radius: 0.5em;
+        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        div {
+            margin: 0 auto;
+            width: auto;
+        }
+    }
+    </style>    
+</head>
+
+<body>
+<div>
+    <h1>Example Domain</h1>
+    <p>This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.</p>
+    <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+</div>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                           [2m⏎(B[m                                                                                                                                                                                                           ⏎ [K[?2004h]0;~/n/asgnmt4[30m(B[m[92mabhijit(B[m@(B[mabhijit-hp(B[m [32m~/n/asgnmt4(B[m (master)(B[m> [K[197C[1m[32m(base) (B[m[197C[41Ce[197C[1m[32m(base) (B[m[197C[42C[38;2;85;85;85mcho "hello"> loda.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0me[38;2;85;85;85mcho "hello"> loda.txt[197C[30m(B[m[1m[32m(base) (B[m[197C[42C[38;2;255;0;0mx[30m(B[m[K[197C[1m[32m(base) (B[m[197C[43C[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mex[38;2;85;85;85mit[197C[30m(B[m[1m[32m(base) (B[m[197C[43C[38;2;0;95;215mi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mexi[38;2;85;85;85mt[197C[30m(B[m[1m[32m(base) (B[m[197C[44C[38;2;255;0;0mt[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[38;2;0;95;215mexit[197C[30m(B[m[1m[32m(base) (B[m[197C[45C[197C[1m[32m(base) (B[m[197C[45C
 [30m(B[m[?2004l]0;exit ~/n/asgnmt4[30m(B[m[30m(B[m[?2004l
-Script done on 2023-04-02 22:17:41+05:30 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-04-08 15:41:58+05:30 [COMMAND_EXIT_CODE="0"]
